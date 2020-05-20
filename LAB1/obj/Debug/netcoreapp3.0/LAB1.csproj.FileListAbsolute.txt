@@ -1,0 +1,11 @@
+D:\KPI\8 sem\пар. обч\LAB1\bin\Debug\netcoreapp3.0\LAB1.exe
+D:\KPI\8 sem\пар. обч\LAB1\bin\Debug\netcoreapp3.0\LAB1.deps.json
+D:\KPI\8 sem\пар. обч\LAB1\bin\Debug\netcoreapp3.0\LAB1.runtimeconfig.json
+D:\KPI\8 sem\пар. обч\LAB1\bin\Debug\netcoreapp3.0\LAB1.runtimeconfig.dev.json
+D:\KPI\8 sem\пар. обч\LAB1\bin\Debug\netcoreapp3.0\LAB1.dll
+D:\KPI\8 sem\пар. обч\LAB1\bin\Debug\netcoreapp3.0\LAB1.pdb
+D:\KPI\8 sem\пар. обч\LAB1\obj\Debug\netcoreapp3.0\LAB1.csprojAssemblyReference.cache
+D:\KPI\8 sem\пар. обч\LAB1\obj\Debug\netcoreapp3.0\LAB1.AssemblyInfoInputs.cache
+D:\KPI\8 sem\пар. обч\LAB1\obj\Debug\netcoreapp3.0\LAB1.AssemblyInfo.cs
+D:\KPI\8 sem\пар. обч\LAB1\obj\Debug\netcoreapp3.0\LAB1.dll
+D:\KPI\8 sem\пар. обч\LAB1\obj\Debug\netcoreapp3.0\LAB1.pdb
